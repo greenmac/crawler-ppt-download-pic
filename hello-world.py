@@ -46,10 +46,15 @@
 #     y=y+1
 # print(y)
 
-x=1
-base=1
-while x<1000:
-    x=x*base
-    base=base+1
-print(x)
-print(base)
+# x=1
+# base=1
+# while x<1000:
+#     x=x*base
+#     base=base+1
+# print(x)
+# print(base)
+
+# x=0
+# for i in range(10):
+#     x=x+1
+# print(x)
